@@ -2,7 +2,7 @@ name: Check Git Commits Weekly Cronjob
 
 on:
   schedule:
-    - cron: '*/2 * * * *'
+    - cron: '* * * * *'
 
 jobs:
   build:
