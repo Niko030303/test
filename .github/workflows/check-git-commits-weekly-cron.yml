@@ -14,4 +14,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Check Git Commits
-      run: curl https://workfun.vika.ltd/check-git-commits-weekly
+      run: curl https://workfun.vika.ltd/check-git-commits-weeklyxxx
